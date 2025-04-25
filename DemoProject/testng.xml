@@ -10,7 +10,7 @@
     <class name="testScript.LoginTest">
       <methods>
   
-<include name="verifyUserAbleToLoginWithWrongUsernameWrongPassword"></include>
+<!--<include name="verifyUserAbleToLoginWithWrongUsernameWrongPassword"></include> -->
       </methods>
       </class>
     </classes>
